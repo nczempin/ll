@@ -39,7 +39,36 @@ Draw a wavy line under these points in the transcript
 2. grammatical structures
 3. needed vocabulary
 4. topics you want to talk about
+
 ## Record
+
+Record three simple exercises that will help you say your text with help you say your text with flow and confidence.
+
+### Whole Text Listening Drill
+Instructions: "Listen Only"
+Record the entire text 3 successive times without interruption.
+
+### Sentence Mimicry Drill - Part A
+Instructions: "Mimic each sentence during the pause"
+1. Read each sentence once
+2. leave a pause long enough for the sentence.
+2. Repeat the sentence
+4. and the pause twice
+5. repeat the sentence again
+6. and the pause 
+
+before moving on to the next sentence, and repeat for each sentence.
+
+In the pauses, silently voice the sentence to find a good pause length.
+### Sentence Mimicry Drill - Part B
+1. Read first sentence once
+2. pause 
+3. read second sentence
+4. pause
+
+and so on.
+
+
 # Tuesday
 # Wednesday
 # Thursday
