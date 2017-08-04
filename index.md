@@ -71,6 +71,19 @@ In the pauses, silently voice the sentence to find a good pause length.
 
 and so on.
 
+## Practice
+
+### Practice With Your Helper
+
+#### Listen
+
+#### Mimic
+
+#### Produce
+
+#### Mimic
+
+#### Produce
 
 # Tuesday
 # Wednesday
