@@ -8,11 +8,14 @@ title: "Language Acquisition Made Practical"
 ### Elicit the text
 The basic idea to get across is this:
 > Hello.
-I'm learning (name of language).
-This is all I can say.
-Good-bye.
+> I'm learning (name of language).
+> This is all I can say.
+> Good-bye.
+
 ### Record the text
+
 Have the helper record the entire text one or two times.
+
 ## Check
 ### Suitable for him?
 Does the recorded text sound smooth and natural to your helper? Will it be OK for you to say this to random people?
