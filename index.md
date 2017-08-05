@@ -5,7 +5,7 @@ title: "Language Acquisition Made Practical"
 
 # Monday
 
-The primary goal is to internalize the methodolody, based on a very simple text in the target language.
+The primary goals are to internalize the methodolody (based on a very simple text in the target language), and to start on *fluency*.
 
 ## Prepare
 
