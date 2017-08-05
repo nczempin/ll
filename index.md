@@ -2,10 +2,10 @@
 layout: default
 title: "Language Acquisition Made Practical"
 ---
-
+The primary goal of the first week is to internalize the methodolody
 # Monday
 
-The primary goals are to internalize the methodolody (based on a very simple text in the target language), and to start on *fluency*.
+Focus on *fluency*.
 
 ## Prepare
 
@@ -130,7 +130,23 @@ Try your speech on 30 - 50 people.
 ### Decide on Next Step
 
 ### Organize New Material
+
 # Tuesday
+
+Will begin to learn various techniques for gaining *accuracy*.
+
+Elicit a text from the helper based on a given *setting* (avoid using your L1).
+
+## Obtain the Text
+
+### Describe the setting
+Two people
+#### Greeting
+#### Expand on "I want to learn to speak (the language)"
+#### "This all I can say"
+#### How to thank someone
+#### What to say when you want to leave after talking
+
 # Wednesday
 # Thursday
 # Friday
