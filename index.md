@@ -5,7 +5,7 @@ title: "Language Acquisition Made Practical"
 
 # Monday
 
-The primary goal is to get used to the daily learning cycle, based on a very simple text in the target language.
+The primary goal is to internalize the methodolody, based on a very simple text in the target language.
 
 ## Prepare
 
@@ -88,13 +88,34 @@ Do not follow the transcript, train your ears instead.
 
 For difficult sounds that you do not seem to get, move on for now if you don't get them after three to five minutes.
 
+Pay close attention to intonation (melody), emphasis and rhythm of each sentence.
+
 #### Produce
 
 ##### Completion Production Drill
 
 ### Practice with the Recording
 
+Objective is to get the text down pat and to develop confidence in your ability to say it.
 
+You will have learned the text when you can easily say it without stumbling (at normal speed).
+
+It will probably be necessary to work through the drills 3-4 times or more.
+
+Keep the meaning in mind.
+
+#### Sentence Production Drill
+Produce the sentence before the recording.
+
+Repeat until each phrase no hesitation.
+
+#### Simultaneous Production Drill
+
+#### Entire Speech Without Reinforcement or Help
+
+#### Wrap up
+
+Confidence and fluency are relative
 
 # Tuesday
 # Wednesday
