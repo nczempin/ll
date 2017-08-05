@@ -5,6 +5,8 @@ title: "Language Acquisition Made Practical"
 
 # Monday
 
+The primary goal is to get used to the daily learning cycle, based on a very simple text in the target language.
+
 ## Prepare
 
 ### Obtain
@@ -79,11 +81,20 @@ and so on.
 
 #### Mimic
 
+Break sentences that are too long into multiple phrases and practice them, starting at the end, using the 
+##### Build-up mimicry drill
+
+Do not follow the transcript, train your ears instead.
+
+For difficult sounds that you do not seem to get, move on for now if you don't get them after three to five minutes.
+
 #### Produce
 
-#### Mimic
+##### Completion Production Drill
 
-#### Produce
+### Practice with the Recording
+
+
 
 # Tuesday
 # Wednesday
