@@ -117,6 +117,19 @@ Repeat until each phrase no hesitation.
 
 Confidence and fluency are relative
 
+## Communicate What You Know
+
+Try your speech on 30 - 50 people.
+
+## Evaluate
+
+### Evaluate Procedures
+
+### Note and Classify
+
+### Decide on Next Step
+
+### Organize New Material
 # Tuesday
 # Wednesday
 # Thursday
