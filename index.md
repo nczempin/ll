@@ -10,6 +10,9 @@ I am just summarizing the basic contents from a book called "Language Acquisitio
 
 I want to use this method in the "Chinese section" of my tandem sessions, and the web site helps me explain what I would like my tandem partners to do (it involves recording as well as drilling me on some phrases, and also I will ask them  to provide some examples of phrases that native speakers would use).
 
+[Instructions/Guide for LAMP learners](/ll/lamp-learner.md)
+
+[Instructions/Guide for LAMP helpers](/ll/lamp-helper.md)
 
 The primary goal of the first week is to internalize the methodology
 # Table of Contents
