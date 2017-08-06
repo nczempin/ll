@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Language Acquisition Made Practical"
+title: "Language Acquisition Made Practical - Instructions for Language Helper"
 ---
 # Table of Contents
 1. [Monday](#Monday)
@@ -12,21 +12,16 @@ title: "Language Acquisition Made Practical"
 
 ## Monday<a name="Monday"/>
 
-Focus on *fluency*.
-
 ## Prepare
 
 ### Obtain
 #### Elicit the text
 "The text" is roughly (but not necessarily literally translated; please convey the meaning of the following in a manner that is natural in your language)
 
-> Hello. [A greeting that can be used informally or formally when you greet a stranger for the first time)
-
-> I'm learning (name of language).
-
-> This is all I can say (for now). [My proficiency in (name of language) does not allow me to say anything else; I'm not good enough for anything else]
-
-> Good-bye. [this conversation is over and I will leave now, I am unable to communicate with you any further because I don't know how]
+1. Hello. [A greeting that can be used informally or formally when you greet a stranger for the first time)
+2. I'm learning (name of language).
+3. This is all I can say (for now). [My proficiency in (name of language) does not allow me to say anything else; I'm not good enough for anything else]
+4. Good-bye. [this conversation is over and I will leave now, I am unable to communicate with you any further because I don't know how]
 
 #### Record and Refine the Text initially
 
@@ -40,14 +35,14 @@ Focus on *fluency*.
 
 Record three simple exercises that will help you say your text with help you say your text with flow and confidence.
 
-Recording 1:
+#### Recording 1:
 
 Say (in English):
 "Whole Text Listening Drill. Listen Only"
 and then follow with the entire text in your language in a smooth and natural way,
 3 successive times without interruption.
 
-Recording 2:
+#### Recording 2:
 
 Say (in English)
 "Sentence Mimicry Drill - Part A. Mimic each sentence during the pause"
@@ -63,7 +58,12 @@ So that means
 then continue by reading the second sentence again, and go through steps 
 before moving on to the next sentence, and repeat the above steps for each sentence.
 
-#### Sentence Mimicry Drill - Part B
+#### Recording 3:
+
+Say (in English):
+"Sentence Mimicry Drill - Part B. Mimic each sentence during the pause"
+
+then read each sentence just once and leave a pause long enough for me to repeat it:
 1. Read first sentence once
 2. pause 
 3. read second sentence
@@ -71,23 +71,17 @@ before moving on to the next sentence, and repeat the above steps for each sente
 
 and so on.
 
-## Practice
-
-### Practice With Your Helper
-
+## Help Me Practice
 #### Listen
-
+Repeat the entire text three times; I will simply listen.
 #### Mimic
+Say the text and let me repeat each sentence.
 
-Break sentences that are too long into multiple phrases and practice them, **starting at the end**, using the 
-##### Build-up mimicry drill
+If any one sentence is too difficult for me to repeat, help me start with a smaller chunk of the sentence, starting at the end:
+1. Say the last word or couple of words and let me repeat.
+2. Repeat this at least three times, if I cannot repeat it, split it up into even smaller pieces. IF it still too difficult after three to five minutes, let's move on to the next sentence for now 
 
-Do not follow the transcript, train your ears instead.
-
-For difficult sounds that you do not seem to get, move on for now if you don't get them after three to five minutes.
-
-Pay close attention to intonation (melody), emphasis and rhythm of each sentence.
-
+Remember to speak at a normal pace and in a natural way, do not speak extra slow for me.
 #### Produce
 
 ##### Completion Production Drill
