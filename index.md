@@ -2,7 +2,7 @@
 layout: default
 title: "Language Acquisition Made Practical"
 ---
-The primary goal of the first week is to internalize the methodolody
+The primary goal of the first week is to internalize the methodology
 # Table of Contents
 1. [Monday](#Monday)
 2. [Tuesday](#Tuesday)
