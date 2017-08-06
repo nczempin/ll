@@ -18,10 +18,10 @@ title: "Language Acquisition Made Practical - Instructions for Language Helper"
 #### Elicit the text
 "The text" is roughly (but not necessarily literally translated; please convey the meaning of the following in a manner that is natural in your language)
 
-1. Hello. [A greeting that can be used informally or formally when you greet a stranger for the first time)
-2. I'm learning (name of language).
-3. This is all I can say (for now). [My proficiency in (name of language) does not allow me to say anything else; I'm not good enough for anything else]
-4. Good-bye. [this conversation is over and I will leave now, I am unable to communicate with you any further because I don't know how]
+1. **Hello.** [A greeting that can be used informally or formally when you greet a stranger for the first time)
+2. **I'm learning (name of language).**
+3. **This is all I can say (for now).** [My proficiency in (name of language) does not allow me to say anything else; I'm not good enough for anything else]
+4. **Good-bye.** [this conversation is over and I will leave now, I am unable to communicate with you any further because I don't know how]
 
 #### Initially Record the Text and Refine it
 
@@ -71,10 +71,10 @@ then read each sentence just once and leave a pause long enough for me to repeat
 
 and so on.
 
-## Help Me Practice
-#### Listen
-Repeat the entire text three times; I will simply listen.
-#### Mimic
+## Help Me Practice With You
+#### I Listen
+Say the entire text three times; I will simply listen.
+#### I Mimic
 Say the text and let me repeat each sentence.
 
 If any one sentence is too difficult for me to repeat, help me start with a smaller chunk of the sentence, starting at the end:
@@ -85,7 +85,7 @@ Remember to speak at a normal pace and in a natural way, do not speak extra slow
 #### Produce
 For each sentence:
 1. Say just the first word or two of each sentence.
-2. I will then say the entire sentence on my own
+2. I will then repeat these one or two words and continue to say the entire sentence on my own
 3. Say the entire sentence
 
 Do the whole thing at least three times
