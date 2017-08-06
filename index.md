@@ -3,7 +3,15 @@ layout: default
 title: "Language Acquisition Made Practical"
 ---
 The primary goal of the first week is to internalize the methodolody
-# Monday
+# Table of Contents
+1. [Monday](#Monday)
+2. [Tuesday](#Tuesday)
+3. [Wednesday](#Wednesday)
+4. [Thursday](#Thursday)
+5. [Friday](#Friday)
+
+
+## Monday<a name="Monday"/>
 
 Focus on *fluency*.
 
@@ -131,7 +139,7 @@ Try your speech on 30 - 50 people.
 
 ### Organize New Material
 
-# Tuesday
+# Tuesday<a name="Tuesday"/>
 
 Will begin to learn various techniques for gaining *accuracy*.
 
@@ -147,7 +155,7 @@ Two people
 #### How to thank someone
 #### What to say when you want to leave after talking
 
-# Wednesday
+# Wednesday<a name="Wednesday"/>
 Now you know how to initiate and terminate a conversation.
 
 The opening and closing of conversations will remain fairly constant; the body will has unlimited options.
@@ -156,9 +164,9 @@ Now you will learn how to say something about yourself.
 
 Plus a new drill called Pronunciation Substitution Drill
 
-# Thursday
+# Thursday<a name="Thursday"/>
 
 Today you will begin to use "helping questions" (interrogatives) in the target language.
 
 Differential Pronunciation and Differential Structure drills
-# Friday
+# Friday<a name="Friday"/>
