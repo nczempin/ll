@@ -23,7 +23,7 @@ title: "Language Acquisition Made Practical - Instructions for Language Helper"
 3. This is all I can say (for now). [My proficiency in (name of language) does not allow me to say anything else; I'm not good enough for anything else]
 4. Good-bye. [this conversation is over and I will leave now, I am unable to communicate with you any further because I don't know how]
 
-#### Record and Refine the Text initially
+#### Initially Record the Text and Refine it
 
 1. Record the entire text twice. Make sure to say it in a natural manner, as if you were casually saying it to another native speaker. In particular, please do not speak overly clearly or slowly.
 2. Does it sound smooth and natural? Would it be OK for me to say it to random people?
@@ -83,74 +83,19 @@ If any one sentence is too difficult for me to repeat, help me start with a smal
 
 Remember to speak at a normal pace and in a natural way, do not speak extra slow for me.
 #### Produce
+For each sentence:
+1. Say just the first word or two of each sentence.
+2. I will then say the entire sentence on my own
+3. Say the entire sentence
 
-##### Completion Production Drill
+Do the whole thing at least three times
 
-### Practice with the Recording
+Finally you're done for the "day". I'm sure you're bored by now.
 
-Objective is to get the text down pat and to develop confidence in your ability to say it.
-
-You will have learned the text when you can easily say it without stumbling (at normal speed).
-
-It will probably be necessary to work through the drills 3-4 times or more.
-
-Keep the meaning in mind.
-
-#### Sentence Production Drill
-Produce the sentence before the recording.
-
-Repeat until each phrase no hesitation.
-
-#### Simultaneous Production Drill
-
-#### Entire Speech Without Reinforcement or Help
-
-#### Wrap up
-
-Confidence and fluency are relative
-
-## Communicate What You Know
-
-Try your speech on 30 - 50 people.
-
-## Evaluate
-
-### Evaluate Procedures
-
-### Note and Classify
-
-### Decide on Next Step
-
-### Organize New Material
+I will now practice with the recordings on my own.
 
 # Tuesday<a name="Tuesday"/>
 
-Will begin to learn various techniques for gaining *accuracy*.
-
-Elicit a text from the helper based on a given *setting* (avoid using your L1).
-
-## Obtain the Text
-
-### Describe the setting
-Two people
-#### Greeting
-#### Expand on "I want to learn to speak (the language)"
-#### "This all I can say"
-#### How to thank someone
-#### What to say when you want to leave after talking
-
 # Wednesday<a name="Wednesday"/>
-Now you know how to initiate and terminate a conversation.
-
-The opening and closing of conversations will remain fairly constant; the body will has unlimited options.
-
-Now you will learn how to say something about yourself.
-
-Plus a new drill called Pronunciation Substitution Drill
-
 # Thursday<a name="Thursday"/>
-
-Today you will begin to use "helping questions" (interrogatives) in the target language.
-
-Differential Pronunciation and Differential Structure drills
 # Friday<a name="Friday"/>
