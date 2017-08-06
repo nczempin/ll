@@ -5,14 +5,15 @@ title: "Language Acquisition Made Practical - Instructions for Language Helper"
 
 <div data-role="page" id="pageone">
   <div data-role="header">
-# Instructions for Language Helper in the LAMP method, First Week  </div>
+  <h1> Instructions for Language Helper in the LAMP method, First Week</h1> 
+</div>
 
-  <div data-role="main" class="ui-content">
+ <!-- <div data-role="main" class="ui-content">
     <div data-role="collapsible">
       <h1>Click me - I'm collapsible!</h1>
       <p>I'm the expanded content.</p>
     </div>
-  </div>
+  </div>-->
 1. [Day 1](#Monday)
 2. [Day 2](#Tuesday)
 3. [Day 3](#Wednesday)
