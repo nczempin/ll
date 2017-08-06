@@ -157,4 +157,6 @@ Now you will learn how to say something about yourself.
 Plus a new drill called Pronunciation Substitution Drill
 
 # Thursday
+
+Today you will begin to use "helping questions" (interrogatives) in the target language.
 # Friday
