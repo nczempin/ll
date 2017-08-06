@@ -81,7 +81,7 @@ and so on.
 
 #### Mimic
 
-Break sentences that are too long into multiple phrases and practice them, starting at the end, using the 
+Break sentences that are too long into multiple phrases and practice them, **starting at the end**, using the 
 ##### Build-up mimicry drill
 
 Do not follow the transcript, train your ears instead.
