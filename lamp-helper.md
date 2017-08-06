@@ -8,12 +8,12 @@ title: "Language Acquisition Made Practical - Instructions for Language Helper"
   <h1> Instructions for Language Helper in the LAMP method, First Week</h1> 
 </div>
 
- <!-- <div data-role="main" class="ui-content">
-    <div data-role="collapsible">
+ <div data-role="main" class="ui-content">
+ <!--    <div data-role="collapsible">
       <h1>Click me - I'm collapsible!</h1>
       <p>I'm the expanded content.</p>
-    </div>
-  </div>-->
+    </div>-->
+ 
 1. [Day 1](#Monday)
 2. [Day 2](#Tuesday)
 3. [Day 3](#Wednesday)
@@ -108,3 +108,5 @@ I will later practice with the recordings on my own.
 # Day 3<a name="Wednesday"/>
 # Day 4<a name="Thursday"/>
 # Day 5<a name="Friday"/>
+
+ </div>
