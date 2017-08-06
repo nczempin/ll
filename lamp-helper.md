@@ -16,7 +16,7 @@ title: "Language Acquisition Made Practical - Instructions for Language Helper"
 
 ### Obtain
 #### Elicit the text
-"The text" is roughly (but not necessarily literally translated; please convey the meaning of the following in a manner that is natural in your language)
+"The text" is roughly (but not necessarily literally) translated; please convey the meaning of the following in a manner that is natural in your language)
 
 1. **Hello.** [A greeting that can be used informally or formally when you greet a stranger for the first time)
 2. **I'm learning (name of language).**
@@ -92,7 +92,7 @@ Do the whole thing at least three times
 
 Finally you're done for the "day". I'm sure you're bored by now.
 
-I will now practice with the recordings on my own.
+I will later practice with the recordings on my own.
 
 # Tuesday<a name="Tuesday"/>
 
