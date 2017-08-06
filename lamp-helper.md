@@ -16,9 +16,9 @@ title: "Language Acquisition Made Practical - Instructions for Language Helper"
 ### Decide on the Text
 "The text" is the following, roughly (but not necessarily literally) translated; please convey the meaning of the following in a manner that is natural in your language)
 
-1. **Hello.** [A greeting that can be used informally or formally when you greet a stranger for the first time)
+1. **Hello.** or **How do you do?** [A greeting that can be used informally or formally when you greet a stranger for the first time)
 2. **I'm learning (name of language).**
-3. **This is all I can say (for now).** [My proficiency in (name of language) does not allow me to say anything else; I'm not good enough for anything else]
+3. **This is all I can say (for now).** or **This is all I know** [My proficiency in (name of language) does not allow me to say anything else; I'm not good enough for anything else]
 4. **Good-bye.** [this conversation is over and I will leave now, I am unable to communicate with you any further because I don't know how]
 
 ### Initially Record the Text and Refine it
