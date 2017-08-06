@@ -159,4 +159,6 @@ Plus a new drill called Pronunciation Substitution Drill
 # Thursday
 
 Today you will begin to use "helping questions" (interrogatives) in the target language.
+
+Differential Pronunciation and Differential Structure drills
 # Friday
