@@ -3,27 +3,25 @@ layout: default
 title: "Language Acquisition Made Practical - Instructions for Language Helper"
 ---
 # Table of Contents
-1. [Monday](#Monday)
-2. [Tuesday](#Tuesday)
-3. [Wednesday](#Wednesday)
-4. [Thursday](#Thursday)
-5. [Friday](#Friday)
+1. [Day 1](#Monday)
+2. [Day 2](#Tuesday)
+3. [Day 3](#Wednesday)
+4. [Day 4](#Thursday)
+5. [Day 5](#Friday)
 
 
-## Monday<a name="Monday"/>
+## Day 1<a name="Monday"/>
 
-## Prepare
-
-### Obtain
-#### Elicit the text
-"The text" is roughly (but not necessarily literally) translated; please convey the meaning of the following in a manner that is natural in your language)
+## Help Me Prepare
+### Decide on the Text
+"The text" is the following, roughly (but not necessarily literally) translated; please convey the meaning of the following in a manner that is natural in your language)
 
 1. **Hello.** [A greeting that can be used informally or formally when you greet a stranger for the first time)
 2. **I'm learning (name of language).**
 3. **This is all I can say (for now).** [My proficiency in (name of language) does not allow me to say anything else; I'm not good enough for anything else]
 4. **Good-bye.** [this conversation is over and I will leave now, I am unable to communicate with you any further because I don't know how]
 
-#### Initially Record the Text and Refine it
+### Initially Record the Text and Refine it
 
 1. Record the entire text twice. Make sure to say it in a natural manner, as if you were casually saying it to another native speaker. In particular, please do not speak overly clearly or slowly.
 2. Does it sound smooth and natural? Would it be OK for me to say it to random people?
@@ -94,8 +92,8 @@ Finally you're done for the "day". I'm sure you're bored by now.
 
 I will later practice with the recordings on my own.
 
-# Tuesday<a name="Tuesday"/>
+# Day 2<a name="Tuesday"/>
 
-# Wednesday<a name="Wednesday"/>
-# Thursday<a name="Thursday"/>
-# Friday<a name="Friday"/>
+# Day 3<a name="Wednesday"/>
+# Day 4<a name="Thursday"/>
+# Day 5<a name="Friday"/>
