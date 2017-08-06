@@ -2,7 +2,7 @@
 layout: default
 title: "Language Acquisition Made Practical - Instructions for Language Helper"
 ---
-# Table of Contents
+# Instructions for Language Helper in the LAMP method, First Week
 1. [Day 1](#Monday)
 2. [Day 2](#Tuesday)
 3. [Day 3](#Wednesday)
