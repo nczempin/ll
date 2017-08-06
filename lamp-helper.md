@@ -2,7 +2,7 @@
 layout: default
 title: "Language Acquisition Made Practical - Instructions for Language Helper"
 ---
-
+# Language Acquisition Made Practical - Instructions for Language Helper
  
 1. [Day 1](#Monday)
 2. [Day 2](#Tuesday)
