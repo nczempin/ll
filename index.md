@@ -148,5 +148,13 @@ Two people
 #### What to say when you want to leave after talking
 
 # Wednesday
+Now you know how to initiate and terminate a conversation.
+
+The opening and closing of conversations will remain fairly constant; the body will has unlimited options.
+
+Now you will learn how to say something about yourself.
+
+Plus a new drill called Pronunciation Substitution Drill
+
 # Thursday
 # Friday
