@@ -28,42 +28,41 @@ Focus on *fluency*.
 
 > Good-bye. [this conversation is over and I will leave now, I am unable to communicate with you any further because I don't know how]
 
-#### Record the text
+#### Record and Refine the Text initially
 
 1. Record the entire text twice. Make sure to say it in a natural manner, as if you were casually saying it to another native speaker. In particular, please do not speak overly clearly or slowly.
 2. Does it sound smooth and natural? Would it be OK for me to say it to random people?
 3. I may find it too difficult. Do you think it could be simplified and/or shortened? If so, please go back to step 1
 4. Help me to transcribe the final recording. (Initially only you can do this, later please check my efforts).
-5. Help me identify which parts are difficult, and note them in the transcription 
-1. pronunciation problems
-  a) which sounds are difficult?
-  b) which sounds does your helper correct you on?
-  c) at what point do you stumble?
-Draw a wavy line under these points in the transcript
-2. grammatical structures
-3. needed vocabulary
-4. topics you want to talk about
+5. Help me identify which parts are difficult, and note them in the transcription
 
-### Record
+### Record the Text Multiple Times in Specific Formats, for Later Practice
 
 Record three simple exercises that will help you say your text with help you say your text with flow and confidence.
 
-#### Whole Text Listening Drill
-Instructions: "Listen Only"
-Record the entire text 3 successive times without interruption.
+Recording 1:
 
-#### Sentence Mimicry Drill - Part A
-Instructions: "Mimic each sentence during the pause"
-1. Read each sentence once
+Say (in English):
+"Whole Text Listening Drill. Listen Only"
+and then follow with the entire text in your language in a smooth and natural way,
+3 successive times without interruption.
+
+Recording 2:
+
+Say (in English)
+"Sentence Mimicry Drill - Part A. Mimic each sentence during the pause"
+and then follow by saying each phrase three times, leaving a pause long enough to say the phrase again (imagine me whispering it during the pause).
+
+So that means
+1. Read the first sentence once
 2. leave a pause long enough for the sentence.
-2. Repeat the sentence
-4. and the pause twice
+3. Repeat the sentence
+4. and the pause
 5. repeat the sentence again
 6. and the pause 
+then continue by reading the second sentence again, and go through steps 
+before moving on to the next sentence, and repeat the above steps for each sentence.
 
-before moving on to the next sentence, and repeat for each sentence.
-
-In the pauses, silently voice the sentence to find a good pause length.
 #### Sentence Mimicry Drill - Part B
 1. Read first sentence once
 2. pause 
