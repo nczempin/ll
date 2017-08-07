@@ -6,7 +6,7 @@ I am collecting ideas on how to efficiently learn all the different aspects of l
 
 For now (I'd like to expand this a lot, later):
 
-I am just summarizing the basic contents from a book called "Language Acquisition Made Practical".
+I am just summarizing the basic contents from a book called [Language Acquisition Made Practical"](https://www.amazon.com/Language-Acquisition-Made-Practical-Learners/dp/B0054RBDSM/).
 
 I want to use this method in the "Chinese section" of my tandem sessions, and the web site helps me explain what I would like my tandem partners to do (it involves recording as well as drilling me on some phrases, and also I will ask them  to provide some examples of phrases that native speakers would use).
 
