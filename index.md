@@ -1,184 +1,28 @@
 ---
 layout: default
-title: "Language Acquisition Made Practical"
+title: "Language Learning"
 ---
-I am collecting ideas on how to efficiently learn all the different aspects of language acquisition, primarily from the point of view of an independent learner (who may or may not be assisted by professional teaching, but the responsibility lies squarely with the learner).
 
-For now (I'd like to expand this a lot, later):
+I am currently learning Chinese independently, not because I need it for work or anything, but just for fun.
 
-I am just summarizing the basic contents from a book called [Language Acquisition Made Practical"](https://www.amazon.com/Language-Acquisition-Made-Practical-Learners/dp/B0054RBDSM/).
+So I am not constrained to reach a certain level by a certain date; I can set my own goals.
 
-I want to use this method in the "Chinese section" of my tandem sessions, and the web site helps me explain what I would like my tandem partners to do (it involves recording as well as drilling me on some phrases, and also I will ask them  to provide some examples of phrases that native speakers would use).
+That said, I do find the structure that HSK and CEFR impose useful as guidelines/baselines for my own activities.
 
-[Instructions/Guide for LAMP learners](/ll/lamp-learner)
+I'm not a big fan of attending a group class (although at some point I may very well attend one in addition to my other activities), because they feel to me to have too much of a "one size fits all" approach.
 
-[Instructions/Guide for LAMP helpers](lamp-helper)
+I am not opposed to individual professional teaching; I use it to supplement my own activities; I believe "the teacher can only open the door, the learner has to step through on their own". I do not wait until the teacher tells me what to do (although I do like their feedback in terms of "what do you think my priorites should be in the medium term, based on my current progress?").  Actually I like this feedback from everyone, but I will probably weigh the advice from professionals somewhat higher.
 
-The primary goal of the first week is to internalize the methodology
-# Table of Contents
-1. [Monday](#Monday)
-2. [Tuesday](#Tuesday)
-3. [Wednesday](#Wednesday)
-4. [Thursday](#Thursday)
-5. [Friday](#Friday)
+I am collecting ideas on how to efficiently learn all the different aspects of independent language acquisition.
+Every learner is at a different place, they will all have
+* different backgrounds (any previous contact with the language, knowledge of any related languages?)
+* different goals (some want to become "fluent", some need a certificate to study or work, some just want to read literature)
+* different levels (in spoken and written language, and within that you can differentiate between many other things, for example fluency, pronunciation, being correct in terms of grammar; in written Chinese there are the simple and traditional characters, do you read them, write them, both?, how many characters can you recognize, are they based on useage frequency, on a textbook, on a system that will use simpler characters that later characters will have as parts, and so on...)
 
+So here on this website, I'd like to collect useful tips on how to learn various parts of languages, primarily for my own use. However, in my journey to learn Chinese I have already (through language exchange programmes such as italki, HelloTalk, Tandem, my local language exchange meetup...) met many people who want to learn languages, primarily my own native language (German), a lot of people who want to improve their English, but also many other languages.
 
-## Monday<a name="Monday"/>
+I also want to describe, primarily to my teachers, my goals and my current levels in the various parts of learning Chinese.
 
-Focus on *fluency*.
+I am doing a lot more things than I am describing here; sometimes I have to force myself to just do more actual language learning than just talking about it.
 
-## Prepare
-
-### Obtain
-#### Elicit the text
-The basic idea to get across is this:
-> Hello.
-> I'm learning (name of language).
-> This is all I can say.
-> Good-bye.
-
-#### Record the text
-
-Have the helper record the entire text one or two times.
-
-### Check
-#### Suitable for him?
-Does the recorded text sound smooth and natural to your helper? Will it be OK for you to say this to random people?
-#### Suitable for you?
-If it is too long or too difficult, try and shorten it.
-Record the text again and re-check if it sounds natural.
-### Transcribe
-Record the final version of the text. Initially this will be done by the helper, later, you will do it yourself.
-### Understand
-For now you have a rough idea, because you asked for the text.
-### Note Opportunities and Classify
-Note and classify new sounds and sentence patterns.
-
-Note mistakes/problems and classify them. For example
-
-1. pronunciation problems
-  a) which sounds are difficult?
-  b) which sounds does your helper correct you on?
-  c) at what point do you stumble?
-Draw a wavy line under these points in the transcript
-2. grammatical structures
-3. needed vocabulary
-4. topics you want to talk about
-
-### Record
-
-Record three simple exercises that will help you say your text with help you say your text with flow and confidence.
-
-#### Whole Text Listening Drill
-Instructions: "Listen Only"
-Record the entire text 3 successive times without interruption.
-
-#### Sentence Mimicry Drill - Part A
-Instructions: "Mimic each sentence during the pause"
-1. Read each sentence once
-2. leave a pause long enough for the sentence.
-2. Repeat the sentence
-4. and the pause twice
-5. repeat the sentence again
-6. and the pause 
-
-before moving on to the next sentence, and repeat for each sentence.
-
-In the pauses, silently voice the sentence to find a good pause length.
-#### Sentence Mimicry Drill - Part B
-1. Read first sentence once
-2. pause 
-3. read second sentence
-4. pause
-
-and so on.
-
-## Practice
-
-### Practice With Your Helper
-
-#### Listen
-
-#### Mimic
-
-Break sentences that are too long into multiple phrases and practice them, **starting at the end**, using the 
-##### Build-up mimicry drill
-
-Do not follow the transcript, train your ears instead.
-
-For difficult sounds that you do not seem to get, move on for now if you don't get them after three to five minutes.
-
-Pay close attention to intonation (melody), emphasis and rhythm of each sentence.
-
-#### Produce
-
-##### Completion Production Drill
-
-### Practice with the Recording
-
-Objective is to get the text down pat and to develop confidence in your ability to say it.
-
-You will have learned the text when you can easily say it without stumbling (at normal speed).
-
-It will probably be necessary to work through the drills 3-4 times or more.
-
-Keep the meaning in mind.
-
-#### Sentence Production Drill
-Produce the sentence before the recording.
-
-Repeat until each phrase no hesitation.
-
-#### Simultaneous Production Drill
-
-#### Entire Speech Without Reinforcement or Help
-
-#### Wrap up
-
-Confidence and fluency are relative
-
-## Communicate What You Know
-
-Try your speech on 30 - 50 people.
-
-## Evaluate
-
-### Evaluate Procedures
-
-### Note and Classify
-
-### Decide on Next Step
-
-### Organize New Material
-
-# Tuesday<a name="Tuesday"/>
-
-Will begin to learn various techniques for gaining *accuracy*.
-
-Elicit a text from the helper based on a given *setting* (avoid using your L1).
-
-## Obtain the Text
-
-### Describe the setting
-Two people
-#### Greeting
-#### Expand on "I want to learn to speak (the language)"
-#### "This all I can say"
-#### How to thank someone
-#### What to say when you want to leave after talking
-
-# Wednesday<a name="Wednesday"/>
-Now you know how to initiate and terminate a conversation.
-
-The opening and closing of conversations will remain fairly constant; the body will has unlimited options.
-
-Now you will learn how to say something about yourself.
-
-Plus a new drill called Pronunciation Substitution Drill
-
-# Thursday<a name="Thursday"/>
-
-Today you will begin to use "helping questions" (interrogatives) in the target language.
-
-Differential Pronunciation and Differential Structure drills
-# Friday<a name="Friday"/>
+For now I am describing a [process that I'm building up for my spoken Chinese](lamp-overview).
