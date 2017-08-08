@@ -16,6 +16,7 @@ I am not opposed to individual professional teaching; I use it to supplement my 
 
 I am collecting ideas on how to efficiently learn all the different aspects of independent language acquisition.
 Every learner is at a different place, they will all have
+* different situations (some are already in the foreign country, surrounded by native speakers, some just learn from their couch at home)
 * different backgrounds (any previous contact with the language, knowledge of any related languages?)
 * different goals (some want to become "fluent", some need a certificate to study or work, some just want to read literature)
 * different levels (in spoken and written language, and within that you can differentiate between many other things, for example fluency, pronunciation, being correct in terms of grammar; in written Chinese there are the simple and traditional characters, do you read them, write them, both?, how many characters can you recognize, are they based on useage frequency, on a textbook, on a system that will use simpler characters that later characters will have as parts, and so on...)
