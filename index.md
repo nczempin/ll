@@ -10,7 +10,7 @@ So I am not constrained to reach a certain level by a certain date; I can set my
 
 That said, I do find the structure that HSK and CEFR impose useful as guidelines/baselines for my own activities.
 
-I'm not a big fan of attending a group class (although at some point I may very well attend one in addition to my other activities), because they feel to me to have too much of a "one size fits all" approach.
+I'm not a big fan of attending a group class (although at some point I may very well attend one in addition to my other activities), because they feel to me to have too much of a "one size fits all" approach (which they obviously do out of necessity).
 
 I am not opposed to individual professional teaching; I use it to supplement my own activities; I believe "the teacher can only open the door, the learner has to step through on their own". I do not wait until the teacher tells me what to do (although I do like their feedback in terms of "what do you think my priorites should be in the medium term, based on my current progress?").  Actually I like this feedback from everyone, but I will probably weigh the advice from professionals somewhat higher.
 
