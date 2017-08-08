@@ -2,6 +2,7 @@
 layout: default
 title: "Language Learning"
 ---
+# My Language Learning
 
 I am currently learning Chinese independently, not because I need it for work or anything, but just for fun.
 
