@@ -1,4 +1,4 @@
-# LAMP ("Language Acquisition Made Practical")
+# LAMP ("Language Acquisition Made Practical") Background Information
 
 ## What is it?
 LAMP is a method "that lets you learn any language". It is described in a book originally written in 1976, called [Language Acquisition Made Practical"](https://www.amazon.com/Language-Acquisition-Made-Practical-Learners/dp/B0054RBDSM/).
@@ -38,9 +38,9 @@ Since I am changing things around with this method, so it works better in my own
 ### Guidelines for Helpers and Learners
 I want to use this method in the "Chinese section" of my tandem sessions, and the web site helps me explain what I would like my tandem partners to do (it involves recording as well as drilling me on some phrases, and also I will ask them  to provide some examples of phrases that native speakers would use).
 
-[Instructions/Guide for LAMP learners](lamp-learner)
+### Enough with all the Talking! Show me the Meat!
 
-[Instructions/Guide for LAMP helpers](lamp-helper)
+[LAMP](lamp-meat)
 
 ## Some Notes on "Process" or "Method"
 
