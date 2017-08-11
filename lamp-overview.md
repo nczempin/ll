@@ -22,7 +22,7 @@ It assumes that
 * you can spend six hours or more on just learning the language
 * you have a single person who will assist you in learning the language every day.
 
-None of these are true for me for any extensive period of time.
+**None of these are true for me for any extensive period of time.**
 
 ### Showing its Age
 It is also a fairly old book, originally published in 1976. As such, it talks about using technology such as cassette recorders, and does not take advantage of the myriad ways in which technology can help us with learning languages in the 21st century.
