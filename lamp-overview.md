@@ -1,7 +1,7 @@
 # LAMP ("Language Acquisition Made Practical") Background Information
 
 ## What is it?
-LAMP is a method that lets you "learn any language". It is described in a book originally written in 1976, called [Language Acquisition Made Practical"](https://www.amazon.com/Language-Acquisition-Made-Practical-Learners/dp/B0054RBDSM/).
+LAMP is a method that lets you "learn any language". It is described in a book originally written in 1976, called [Language Acquisition Made Practical](https://www.amazon.com/Language-Acquisition-Made-Practical-Learners/dp/B0054RBDSM/).
 
 [Skip all the background info, go directly to LAMP](lamp-meat)
 
