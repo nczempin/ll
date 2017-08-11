@@ -1,4 +1,4 @@
-#LAMP (Language Acquisition Made Practical)
+# LAMP (Language Acquisition Made Practical)
 
 ## LAMP from the perspective of the language learner:
 [Instructions/Guide for LAMP learners](lamp-learner)
