@@ -48,16 +48,21 @@ The text for today is more like this:
  
  B: "Fine, and you?"
  
- A: "Fine.
-    I want to learn [language].
-    I have been learning [language] for [four weeks].
-    This is all I can say."
+ A: "Fine.<br/>
+    I want to learn [language].<br/>
+    I have been learning [language] for [four weeks].<br/>
+    This is all I can say."<br/>
+    
  B: "You are doing fine."
-A: "Thank you.
+ 
+A: "Thank you.<br/>
     Well, I'm going now."
+    
  B: "OK."
+ 
 A: "Good-bye."
- B: "Good-bye."
+
+B: "Good-bye."
 # Wednesday
 # Thursday
 # Friday
