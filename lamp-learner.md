@@ -2,7 +2,7 @@
 layout: default
 title: "Language Acquisition Made Practical"
 ---
-
+Please note that this is still woefully incomplete.
 # Monday
 ## Obtain
 ### Elicit the text
@@ -38,6 +38,21 @@ Draw a wavy line under these points in the transcript
 4. topics you want to talk about
 ## Record
 # Tuesday
+The text for today is more like this:
+A: "Hello."
+ B: "Hello."
+A: "How are you?"
+ B: "Fine, and you?"
+A: "Fine.
+    I want to learn [language].
+    I have been learning [language] for [four weeks].
+    This is all I can say."
+ B: "You are doing fine."
+A: "Thank you.
+    Well, I'm going now."
+ B: "OK."
+A: "Good-bye."
+ B: "Good-bye."
 # Wednesday
 # Thursday
 # Friday
