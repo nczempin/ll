@@ -88,5 +88,21 @@ B: "Good-bye."
 
 
 # Wednesday
+## Prepare
+The text will be a short story about yourself.
+## Record for Practice
+### Phrase Mimicry Drill A
+### Phrase Mimicry Drill B
+### Build-up Mimicry Drill
+### Sentence Mimicry Drill
+### Completion Production Drill A
+### Completion Production Drill B
+### Completion Production Drill C
+
+## Practice With The Helper
+### Fluency Practice
+#### Fill-in-the-Blanks Drill
+### Comprehension Practice
+## Accurcy Practice
 # Thursday
 # Friday
