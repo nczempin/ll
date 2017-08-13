@@ -63,6 +63,30 @@ A: "Thank you.<br/>
 A: "Good-bye."
 
 B: "Good-bye."
+## Record
+### Whole Text Listening Drill
+### Build-up Mimicry Drill
+### Sentence Mimicry Drill
+### Completion Production Drill A
+### Completion Production Drill B
+### Completion Production Drill C
+
+## Practice
+
+### Practice With Your Helper
+
+#### Fluency Practice With Your Helper
+
+#### (Comprehension Practice)
+
+#### Accuracy Practice
+
+##### Accuracy Structure Substitution Drill
+
+## Communicate
+## Evaluate
+
+
 # Wednesday
 # Thursday
 # Friday
