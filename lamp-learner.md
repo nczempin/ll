@@ -108,4 +108,10 @@ The text will be a short story about yourself.
 #### Structure Substitution Drill
 
 # Thursday
+Interrogatives
+
+
 # Friday
+Toolbox Phrases
+
+# Part Two: Become Involved and Independent
