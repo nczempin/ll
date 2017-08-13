@@ -103,6 +103,9 @@ The text will be a short story about yourself.
 ### Fluency Practice
 #### Fill-in-the-Blanks Drill
 ### Comprehension Practice
-## Accurcy Practice
+### Accuracy Practice
+#### Pronounciation Substitution Drill
+#### Structure Substitution Drill
+
 # Thursday
 # Friday
