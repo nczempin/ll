@@ -10,7 +10,7 @@ I am currently learning a foreign language.
 
 Because I am not following a course or need to get a certificate, I am not constrained to reach a certain level by a certain date; I can set my own goals.
 
-That said, I do find the structure that CEFR imposes useful as guidelines/baselines for my own activities.
+That said, I do find the structure that [CEFR](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) imposes useful as guidelines/baselines for my own activities.
 
 ### Group Classes
 I'm not a big fan of attending a group class (although at some point I may very well attend one in addition to my other activities), because they feel to me to have too much of a "one size fits all" approach (which they obviously do out of necessity).
