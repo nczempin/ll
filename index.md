@@ -40,4 +40,4 @@ I am doing a lot more things than I am describing here; sometimes I have to forc
 ## Concrete Methods
 
 ### LAMP (Language Acquisition Made Practical)
-For now I am describing my version of a [process that you can use to improve in any language](lamp-overview).
+For now I am describing my version of a [process that you can use to improve in any language](lamp-overview). It originates i the practice of "field linguistics", which aims to catalogue and preserve languages that have not yet been described.
