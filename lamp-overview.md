@@ -10,8 +10,7 @@ LAMP is a method that lets you "learn any language". It is described in a book o
 ## Why do I use it?
 My two main goals for using it are
 1. to improve my pronunciation and
-2. to get me actually speaking to native speakers of Chinese
-much faster than is usually the case (probably at the expense of efficiency in other areas).
+2. to get me actually speaking to native speakers of my target language much faster than is usually the case (probably at the expense of efficiency in other areas).
 
 When I encountered the book for the first time, it occurred to me that its contents would probably help me tremendously with my goals. I'm sure it can also help people who are in a different situation than I am, but I haven't looked into that in any amount of detail.
 
@@ -39,7 +38,7 @@ But I'm not letting that stop me; the principles are sound enough that I am will
 Since I am changing things around with this method, so it works better in my own situation, I want to have a place where I can keep track of everything that I am doing and what I'm changing, and I find a website to be a convenient, easily-changeable place to do so.
 
 ### Guidelines for Helpers and Learners
-I want to use this method in the "Chinese section" of my tandem sessions, and the web site helps me explain what I would like my tandem partners to do (it involves recording as well as drilling me on some phrases, and also I will ask them  to provide some examples of phrases that native speakers would use).
+I want to use this method in the "target language section" of my tandem sessions, and the web site helps me explain what I would like my tandem partners to do (it involves recording as well as drilling me on some phrases, and also I will ask them  to provide some examples of phrases that native speakers would use).
 
 ### Enough with all the Talking! Show me the Meat!
 
