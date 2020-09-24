@@ -6,11 +6,11 @@ title: "Language Learning"
 
 ## Overview
 
-I am currently learning Chinese, not because I need it for work or anything, but just for fun. I am primarily learning independently.
+I am currently learning a foreign language.
 
 Because I am not following a course or need to get a certificate, I am not constrained to reach a certain level by a certain date; I can set my own goals.
 
-That said, I do find the structure that HSK and CEFR impose useful as guidelines/baselines for my own activities.
+That said, I do find the structure that CEFR imposes useful as guidelines/baselines for my own activities.
 
 ### Group Classes
 I'm not a big fan of attending a group class (although at some point I may very well attend one in addition to my other activities), because they feel to me to have too much of a "one size fits all" approach (which they obviously do out of necessity).
@@ -25,8 +25,7 @@ Every learner is at a different place, they will all have
 * different situations (some are already in the foreign country, surrounded by native speakers, some just learn from their couch at home)
 * different backgrounds (any previous contact with the language, knowledge of any related languages?)
 * different goals (some want to become "fluent", some need a certificate to study or work, some just want to read literature)
-* different levels (in spoken and written language, and within that you can differentiate between many other things, for example fluency, pronunciation, being correct in terms of grammar; in written Chinese there are the simple and traditional characters, do you read them, write them, both?, how many characters can you recognize, are they based on useage frequency, on a textbook, on a system that will use simpler characters that later characters will have as parts, and so on...)
-
+* different levels (in spoken and written language, and within that you can differentiate between many other things, for example fluency, pronunciation, being correct in terms of grammar.
 ### Collecting Ideas/Methods
 
 So here on this website, I'd like to collect useful tips on how to learn various parts of languages, primarily for my own use.
