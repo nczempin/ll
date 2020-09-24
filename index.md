@@ -29,7 +29,7 @@ Every learner is at a different place, they will all have
 ### Collecting Ideas/Methods
 
 So here on this website, I'd like to collect useful tips on how to learn various parts of languages, primarily for my own use.
-However, in my journey to learn Chinese I have already (through language exchange programmes such as italki, HelloTalk, Tandem, my local language exchange meetup...) met many people who want to learn languages, primarily my own native language (German), a lot of people who want to improve their English, but also many other languages. And I will try to make clear when I think something is specific to a certain language or if it could be used with any language.
+However, in my language learning journey (through language exchange programmes such as italki, HelloTalk, Tandem, my local language exchange meetup...) met many people who want to learn languages, primarily my own native language (German), a lot of people who want to improve their English, but also many other languages. And I will try to make clear when I think something is specific to a certain language or if it could be used with any language.
 
 ### Keeping Track of my Progress
 
