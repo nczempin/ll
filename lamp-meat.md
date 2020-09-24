@@ -1,5 +1,11 @@
 # LAMP (Language Acquisition Made Practical)
 
+# Overview
+
+LAMP as I understand it primarily involves a language helper (native speaker) who records phrases that the language learner uses for practice. Recording means that the helper only needs to help a few times, and the learner can listen to the recordings as many times as necessary without bothering the helper.
+
+The phrases are chosen by the learner and helper together; the learner comes up with things he's like to be able to talk about, and the helper comes up with how to say these things naturally in their native language.
+
 ## "Monday", "Tuesday", "Week 1", and so on
 LAMP involves building up a "cycle" which you are originally meant to follow and expand upon every day (see the assumptions of the original book).
 
